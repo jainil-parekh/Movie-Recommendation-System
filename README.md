@@ -1,4 +1,4 @@
-Sample Screenshots
+Sample Screenshots:-
 
 1. Enter the movie name: 
 
